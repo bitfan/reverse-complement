@@ -1,7 +1,7 @@
 {
   "name": "reverse-complement",
   "description": "To convert a DNA sequence into its reverse, complement, or reverse-complement counterpart.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/bitfan/reverse-complement",
   "author": {
     "name": "Qiang Wang",
