@@ -1,0 +1,37 @@
+{
+  "name": "reverse-complement",
+  "description": "```reverse-complement``` is a Node.js based tool and converts a DNA sequence into its reverse, complement, or reverse-complement counterpart.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bitfan/reverse-complement",
+  "author": {
+    "name": "Qiang Wang",
+    "email": "chancewang@hotmail.com",
+    "url": "http://chancewang.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bitfan/reverse-complement.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bitfan/reverse-complement/issues"
+  },
+  "license": "MIT",
+  "main": "lib/reverse-complement",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": [],
+  "preferGlobal": "true",
+  "bin": {
+    "reverse-complement" : "lib/reverse-complement-cli.js"
+  }
+}
