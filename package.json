@@ -1,6 +1,6 @@
 {
   "name": "reverse-complement",
-  "description": "```reverse-complement``` is a Node.js based tool and converts a DNA sequence into its reverse, complement, or reverse-complement counterpart.",
+  "description": "To convert a DNA sequence into its reverse, complement, or reverse-complement counterpart.",
   "version": "0.1.0",
   "homepage": "https://github.com/bitfan/reverse-complement",
   "author": {

@@ -1,6 +1,6 @@
 # reverse-complement [![Build Status](https://secure.travis-ci.org/bitfan/reverse-complement.png?branch=master)](http://travis-ci.org/bitfan/reverse-complement)
 
-```reverse-complement``` is a Node.js based tool and converts a DNA sequence into its reverse, complement, or reverse-complement counterpart.
+```reverse-complement``` is a Node.js based tool to convert a DNA sequence into its reverse, complement, or reverse-complement counterpart.
 
 ## Getting Started
 Install the module with: `npm install reverse-complement`
